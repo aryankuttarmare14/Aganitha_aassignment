@@ -36,7 +36,7 @@ This project uses the [Open Library API](https://openlibrary.org/developers/api)
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone github.com/aryankuttarmare14/Aganitha_aassignment
    cd aganitha_ass
    ```
 
